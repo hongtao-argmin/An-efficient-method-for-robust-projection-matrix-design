@@ -1,4 +1,6 @@
-# An-efficient-method-for-robust-projection-matrix-design
+# An efficient method for robust projection matrix design
+
+Paper Link: https://arxiv.org/abs/1609.08281
 
 To run these codes, please download all of the codes and the corresponding necessary external toolboxes. Note that do not forget to add the path in your own matlab path. 
 
