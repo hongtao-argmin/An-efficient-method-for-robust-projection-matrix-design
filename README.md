@@ -1,5 +1,7 @@
 # An-efficient-method-for-robust-projection-matrix-design
 
+To run these codes, please download all of the codes and the corresponding necessary external toolboxes. Note that do not forget to add the path in your own matlab path. 
+
 Two toolboxes named omp and ksvd are needed to run this toolbox which can be download from http://www.cs.technion.ac.il/~ronrubin/software.html.
 
 The optimization toolbox named minFunc can be found in https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html.
