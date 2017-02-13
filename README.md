@@ -2,6 +2,9 @@
 
 Paper Link: https://arxiv.org/abs/1609.08281
 
+In this paper, we propose an effficient method to design the projection matrix when the signal cannot be exactly represented by a given dictionary. Moreover, the proposed model is a signal independ model. So we extend the design of projection matrix on a high dimensional dictionary. The simulation results show that we can improve the signal recovery accuracy a lot on such a case. 
+
+
 To run these codes, please download all of the codes and the corresponding necessary external toolboxes. Note that do not forget to add the path in your own matlab path. 
 
 Two toolboxes named omp and ksvd are needed to run this toolbox which can be download from http://www.cs.technion.ac.il/~ronrubin/software.html.
