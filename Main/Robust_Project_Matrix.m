@@ -2,7 +2,7 @@
 % min_\Phi \|I-D'*Psi'*Psi*D\|_F^2+\lambda\|Psi\|_F^2.
 % The default method is to choose toolbox minFunc on CG, BFGS etc.   
 %
-% Phi_final = Robust_Project_Matrix(param)
+% Phi_final = Robust_Project_Matrix(param);
 %
 % Input:
 %       param is a struct.
