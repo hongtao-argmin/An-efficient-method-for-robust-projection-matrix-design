@@ -1,6 +1,8 @@
 %  This function is written to test how to choose the best parameter lambda
 %  based on the testing data for the proposed algorithm.
 %
+% function [lambda,Phi_MT,PSNR_MT] = effect_lambda_func(param,X_test);
+%
 %  Input:
 %       param: a class parameter
 %       param.M: the row of the projection matrix
