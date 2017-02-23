@@ -2,6 +2,7 @@
 % the paper. J. Mairal, F. Bach, J. Ponce and G. Sapiro, ``Online learning
 % for matrix factorization and sparse coding,'' JMLR, 2010.
 %
+% [D,test_error,traintime]=Online_DIC_MBPS09(traindata_filename,testdata_filename,param);
 % Input:
 %      traindata_filename: the filename of the training data, the data
 %      should be stored in .mat form and named X.
