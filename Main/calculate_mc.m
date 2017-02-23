@@ -1,6 +1,8 @@
 % This function is written to calculate the mutual coherence and average
 % mutual coherence. 
 %
+% function [mu,mu_av] = calculate_mc(D,mu_bound);
+%
 % Input:
 %      D: the dictionary or equivalent dictionary.
 %      mu_bound: the low bound used in calculating the average mutual
