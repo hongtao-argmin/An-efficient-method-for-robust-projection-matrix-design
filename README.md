@@ -4,7 +4,7 @@ In this paper, we propose an effficient method to design the projection matrix w
 
 Paper Link: https://arxiv.org/abs/1609.08281
 
-To run these codes, please download all of the codes and the corresponding necessary external toolboxes. Note that do not forget to add the path in your own matlab path. 
+To run these codes, please download all of the codes and the corresponding necessary external toolboxes. Note that do not forget to add their path in your own matlab path. 
 
 Two toolboxes named omp and ksvd are needed to run this toolbox which can be download from http://www.cs.technion.ac.il/~ronrubin/software.html.
 
